@@ -1,8 +1,8 @@
 Virnanda Resolusi :
-- belajar GIT dan GITHUB
 - belajar Bootstrap
 - belajar React
 - belajar Mysql
 - belajar python
 - belajar javascript
 - konsisten
+- Kerja
