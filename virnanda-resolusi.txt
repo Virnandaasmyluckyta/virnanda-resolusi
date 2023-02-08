@@ -4,3 +4,5 @@ Virnanda Resolusi :
 - belajar React
 - belajar Mysql
 - belajar python
+- belajar javascript
+- konsisten
